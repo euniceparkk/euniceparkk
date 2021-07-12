@@ -1,5 +1,8 @@
 ## Hi, I'm Eunice! 👋🏼
-### I'm a Software Engineer 👩🏻‍💻
+### I'm a Software Engineer .. 👩🏻‍💻
+
+<h3><strong>Let's connect! Check out my portfolio <a href="https://euniceparkk.github.io/eunice.github.io/">here </a> :)</strong></h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=euniceparkk" alt=“Eunice’s Github Profile Views">
   <br />
@@ -24,8 +27,6 @@
   <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge">
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">  
 </p>
-
-<h3><strong>Let's connect! Check out my portfolio <a href="https://euniceparkk.github.io/eunice.github.io/">here </a> :)</strong></h3>
 
 <!--
 **euniceparkk/euniceparkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
