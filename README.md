@@ -1,4 +1,9 @@
 ### Hi, I'm Eunice! 👋🏼
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=euniceparkk" alt=“Eunice’s Github Profile Views">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=euniceparkk&show_icons=true&theme=onedark&count_private=true" alt=“Eunice’s Github Stats">
+</p>
 
 <h3> Technologies </h3>
 <p>
@@ -18,8 +23,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">  
 </p>
-Lets connect! <a href="https://euniceparkk.github.io/eunice.github.io/"></a>
-
+<a href="https://euniceparkk.github.io/eunice.github.io/"> Lets connect! </a> 
 
 <!--
 **euniceparkk/euniceparkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
