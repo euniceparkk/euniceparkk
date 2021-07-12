@@ -1,5 +1,5 @@
 ## Hi, I'm Eunice! 👋🏼
-### And I'm a Software Engineer 👩🏻‍💻
+### I'm a Software Engineer 👩🏻‍💻
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=euniceparkk" alt=“Eunice’s Github Profile Views">
   <br />
