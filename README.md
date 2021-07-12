@@ -1,4 +1,4 @@
-### Hi, I'm Eunice! 👋🏼
+## Hi, I'm Eunice! 👋🏼
 ### And I'm a Software Engineer 👩🏻‍💻
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=euniceparkk" alt=“Eunice’s Github Profile Views">
@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=euniceparkk&show_icons=true&theme=onedark&count_private=true" alt=“Eunice’s Github Stats">
 </p>
 
-<h3> Technologies </h3>
+<h4> Technologies </h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
