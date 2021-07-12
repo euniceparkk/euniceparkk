@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">  
 </p>
 
-<strong>Let's connect! Check out my portfolio <a href="https://euniceparkk.github.io/eunice.github.io/">here </a> :)</strong>
+<h3><strong>Let's connect! Check out my portfolio <a href="https://euniceparkk.github.io/eunice.github.io/">here </a> :)</strong></h3>
 
 <!--
 **euniceparkk/euniceparkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
