@@ -3,12 +3,6 @@
 
 <h4><strong>Let's connect! You can check out my portfolio <a href="https://euniceparkk.github.io/eunice.github.io/">here </a> :)</strong></h4>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=euniceparkk" alt=“Eunice’s Github Profile Views">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=euniceparkk&show_icons=true&theme=onedark&count_private=true" alt=“Eunice’s Github Stats">
-</p>
-
 <h4> Technologies I use:</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
